@@ -1,0 +1,33 @@
+{
+  "name": "get-region-delimitations",
+  "version": "0.0.0",
+  "description": "A module to get two points from a rectangle which contains all points.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/get-region-delimitations.git"
+  },
+  "keywords": [
+    "earch",
+    "total",
+    "distance"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/get-region-delimitations/issues"
+  },
+  "homepage": "https://github.com/cedced19/get-region-delimitations#readme",
+  "dependencies": {
+    "get-extremums": "0.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
